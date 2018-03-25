@@ -4,12 +4,12 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>com.sail</groupId>
-    <artifactId>sail.service</artifactId>
+    <artifactId>sail.services</artifactId>
     <packaging>jar</packaging>
     <version>1.0-SNAPSHOT</version>
     <name>sail.service</name>
     <url>http://maven.apache.org</url>
     <build>
-        <finalName>sail.service</finalName>
+        <finalName>sail.services</finalName>
     </build>
 </project>
